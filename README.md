@@ -1,5 +1,9 @@
 # ARK Beyond API: Imprinting Mod (Plugin)
 
+## Contributions
+
+This plugin needs a new primary maintainer. If anyone wants to volunteer just let me know.
+
 ## Introduction
 
 Advance imprinting/cuddle support for ARK Survival Evolved servers using ARK Beyond API.
